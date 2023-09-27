@@ -13,7 +13,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-X&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
-<img src="https://github.com/Jorge-X/Jorge-X/blob/output/github-contribution-grid-snake.svg" alt="Snake Gif">
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jorge-X&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true" alt="Typing SVG">
