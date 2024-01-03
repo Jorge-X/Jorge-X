@@ -35,25 +35,34 @@
 ![MySQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Vim](https://img.shields.io/badge/-VIM-0D1117?style=for-the-badge&logo=vim&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Sentry](https://img.shields.io/badge/Sentry-00000F?style=for-the-badge&logo=sentry&logoColor=white)
+![ZAP-PROXY](https://img.shields.io/badge/OWASP-00000F?style=for-the-badge&logo=owasp&logoColor=white)
+![Bandit](https://img.shields.io/badge/Bandit-00000F?style=for-the-badge&logo=python&logoColor=white)
+![CLoudflare](https://img.shields.io/badge/cloudflare-00000F?style=for-the-badge&logo=cloudflare&logoColor=white)
 ### Other Knowledge:
 ![comunication](https://img.shields.io/badge/High_Performance_Public_Speaking_Course-PT_BR-00C7B7?style=for-the-badge&logo=microphone&logoColor=white)&nbsp;
 
   
 ### Studying in this moment:
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Nodejs](https://img.shields.io/badge/Nodejs-14354C?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Ingles](https://img.shields.io/badge/intermediary_English-00000F?style=for-the-badge&logo=null&logoColor=white)&nbsp;
+![Cybersecurity](https://img.shields.io/badge/Ciber-security-00000F?style=for-the-badge&logo=null&logoColor=white)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
