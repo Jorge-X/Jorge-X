@@ -56,11 +56,6 @@
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Ingles](https://img.shields.io/badge/intermediary_English-00000F?style=for-the-badge&logo=null&logoColor=white)&nbsp;
 ![Cybersecurity](https://img.shields.io/badge/Ciber-security-00000F?style=for-the-badge&logo=null&logoColor=white)&nbsp;
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jorge-X}/count.svg" /></p> 
-<br></div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
