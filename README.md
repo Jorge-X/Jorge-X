@@ -45,6 +45,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-00000F?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-00000F?style=for-the-badge&logo=sentry&logoColor=white)
 ![ZAP-PROXY](https://img.shields.io/badge/OWASP-00000F?style=for-the-badge&logo=owasp&logoColor=white)
 ![Bandit](https://img.shields.io/badge/Bandit-00000F?style=for-the-badge&logo=python&logoColor=white)
@@ -56,6 +57,6 @@
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Ingles](https://img.shields.io/badge/intermediary_English-00000F?style=for-the-badge&logo=null&logoColor=white)&nbsp;
 ![Cybersecurity](https://img.shields.io/badge/Ciber-security-00000F?style=for-the-badge&logo=null&logoColor=white)&nbsp;
-  
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
