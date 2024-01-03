@@ -6,18 +6,16 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Jorge-X&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />     
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-X&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jorge-X&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true" alt="Typing SVG">
-  </a>
-</p>
+
+
+## :trophy: **GitHub Stats**
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jorge-X&show_icons=true&theme=dark?username=Jorge-X&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Kaio Almeida github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-X&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+</div>
+
+##
 
 ### My contact:
 <div>  
@@ -53,9 +51,6 @@
 ![ZAP-PROXY](https://img.shields.io/badge/OWASP-00000F?style=for-the-badge&logo=owasp&logoColor=white)
 ![Bandit](https://img.shields.io/badge/Bandit-00000F?style=for-the-badge&logo=python&logoColor=white)
 ![CLoudflare](https://img.shields.io/badge/cloudflare-00000F?style=for-the-badge&logo=cloudflare&logoColor=white)
-### Other Knowledge:
-![comunication](https://img.shields.io/badge/High_Performance_Public_Speaking_Course-PT_BR-00C7B7?style=for-the-badge&logo=microphone&logoColor=white)&nbsp;
-
   
 ### Studying in this moment:
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
